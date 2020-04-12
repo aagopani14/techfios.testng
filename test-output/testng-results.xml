@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12348" started-at="2020-04-09T09:30:18 CDT" finished-at="2020-04-09T09:30:30 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12348" started-at="2020-04-09T09:30:18 CDT" finished-at="2020-04-09T09:30:30 CDT">
+      <class name="techfiostest2.ShouldBeLogin">
+        <test-method status="PASS" signature="ShouldBeAbleToLogin()[pri:0, instance:techfiostest2.ShouldBeLogin@dbd940d]" name="ShouldBeAbleToLogin" duration-ms="12292" started-at="2020-04-09T09:30:18 CDT" finished-at="2020-04-09T09:30:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToLogin -->
+      </class> <!-- techfiostest2.ShouldBeLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
